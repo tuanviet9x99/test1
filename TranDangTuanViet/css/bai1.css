@@ -1,0 +1,64 @@
+#khoi1{
+	width: 100px;
+	height: 100px;
+	border: black solid 3px;
+	float: left;
+}
+#khoi2{
+	width: 100px;
+	height: 100px;
+	border: black solid 3px;
+	float: left;
+}
+#tron1{
+	width: 20px;
+	height: 20px;
+	background: black;
+	border-radius: 25px;
+	margin-left: 40px;
+	margin-top: 40px;
+}
+#tron2{
+	width: 20px;
+	height: 20px;
+	background: black;
+	border-radius: 25px;
+}
+#tron3{
+	width: 20px;
+	height: 20px;
+	background: black;
+	border-radius: 25px;
+	margin-top: 20px;
+}
+#tron4{
+	width: 20px;
+	height: 20px;
+	background: black;
+	border-radius: 25px;
+	margin-top: 20px;
+}
+#tron5{
+	width: 20px;
+	height: 20px;
+	background: black;
+	border-radius: 25px;
+	margin-left: 80px;
+	margin-top: -100px;
+}
+#tron6{
+	width: 20px;
+	height: 20px;
+	background: black;
+	border-radius: 25px;
+	margin-left: 80px;
+	margin-top: 20px;
+}
+#tron7{
+	width: 20px;
+	height: 20px;
+	background: black;
+	border-radius: 25px;
+	margin-left: 80px;
+	margin-top: 20px;
+}

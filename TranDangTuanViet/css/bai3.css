@@ -1,0 +1,46 @@
+#khoi1{
+	width: 100px;
+	height: 100px;
+	border: black solid 3px;
+}
+#khoi2{
+	width: 100px;
+	height: 100px;
+	border: black solid 3px;
+}
+#tron1{
+	width: 20px;
+	height: 20px;
+	background: black;
+	border-radius: 25px;
+}
+#tron2{
+	width: 20px;
+	height: 20px;
+	background: black;
+	border-radius: 25px;
+	margin-top: 60px;
+	margin-left: 80px;
+}
+#tron3{
+	width: 20px;
+	height: 20px;
+	background: black;
+	border-radius: 25px;
+}
+#tron4{
+	width: 20px;
+	height: 20px;
+	background: black;
+	border-radius: 25px;
+	margin-top: 20px;
+	margin-left: 40px
+}
+#tron5{
+	width: 20px;
+	height: 20px;
+	background: black;
+	border-radius: 25px;
+	margin-top: 20px;
+	margin-left: 80px;
+}
